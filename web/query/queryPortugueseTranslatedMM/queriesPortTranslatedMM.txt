@@ -1,0 +1,252 @@
+<BEGIN>
+<top>
+<num>1</num>
+<title>Antitrust cases pending</title>
+<desc></desc>
+</top>
+<top>
+<num>2</num>
+<title>Acquisitions</title>
+<desc></desc>
+</top>
+<top>
+<num>3</num>
+<title>Joint Ventures</title>
+<desc></desc>
+</top>
+<top>
+<num>4</num>
+<title>Rescheduling debt</title>
+<desc></desc>
+</top>
+<top>
+<num>5</num>
+<title>Accusations of dumping</title>
+<desc></desc>
+</top>
+<top>
+<num>6</num>
+<title>Forgiveness of Third World Debt</title>
+<desc></desc>
+</top>
+<top>
+<num>7</num>
+<title>U.S. budget deficit</title>
+<desc></desc>
+</top>
+<top>
+<num>8</num>
+<title>Economic projections</title>
+<desc></desc>
+</top>
+<top>
+<num>9</num>
+<title>Positions of members of the U.S. Congress on the Strategic Defense Initiative - SDI</title>
+<desc></desc>
+</top>
+<top>
+<num>10</num>
+<title>AIDS Treatments</title>
+<desc></desc>
+</top>
+<top>
+<num>11</num>
+<title>Space exploration</title>
+<desc></desc>
+</top>
+<top>
+<num>12</num>
+<title>Pollution of the waters</title>
+<desc></desc>
+</top>
+<top>
+<num>13</num>
+<title>Mitsubishi Heavy Industries Ltd.</title>
+<desc></desc>
+</top>
+<top>
+<num>14</num>
+<title>Approval of new drugs</title>
+<desc></desc>
+</top>
+<top>
+<num>15</num>
+<title>Meetings on international trade liberalization</title>
+<desc></desc>
+</top>
+<top>
+<num>16</num>
+<title>Commercialization of pesticides</title>
+<desc></desc>
+</top>
+<top>
+<num>17</num>
+<title>Measures for the control of pesticides</title>
+<desc></desc>
+</top>
+<top>
+<num>18</num>
+<title>Trends in the market shares of Japanese</title>
+<desc></desc>
+</top>
+<top>
+<num>19</num>
+<title>U.S. protectionist measures</title>
+<desc></desc>
+</top>
+<top>
+<num>20</num>
+<title>Processes for Violation of Patent</title>
+<desc></desc>
+</top>
+<top>
+<num>21</num>
+<title>Superconductivity</title>
+<desc></desc>
+</top>
+<top>
+<num>22</num>
+<title>Antidrug</title>
+<desc></desc>
+</top>
+<top>
+<num>23</num>
+<title>Legal repercussions of pesticide use</title>
+<desc></desc>
+</top>
+<top>
+<num>24</num>
+<title>New medical technology</title>
+<desc></desc>
+</top>
+<top>
+<num>25</num>
+<title>Consequences of Chernobyl</title>
+<desc></desc>
+</top>
+<top>
+<num>26</num>
+<title>Tracking influential players in Multimedia</title>
+<desc></desc>
+</top>
+<top>
+<num>27</num>
+<title>Expert systems and neural networks for business or manufacturing</title>
+<desc></desc>
+</top>
+<top>
+<num>28</num>
+<title>Efforts of technicians Atet</title>
+<desc></desc>
+</top>
+<top>
+<num>29</num>
+<title>Installation of foreign products Atet internet calling</title>
+<desc></desc>
+</top>
+<top>
+<num>30</num>
+<title>Problems with OS / 2</title>
+<desc></desc>
+</top>
+<top>
+<num>31</num>
+<title>Advantages of OS / 2</title>
+<desc></desc>
+</top>
+<top>
+<num>32</num>
+<title>Who outsources the job to anyone informatica</title>
+<desc></desc>
+</top>
+<top>
+<num>33</num>
+<title>Companies able to produce systems Management of Documents</title>
+<desc></desc>
+</top>
+<top>
+<num>34</num>
+<title>Entities involved in building applications ISDN and Development Strategies for exploring the ISDN</title>
+<desc></desc>
+</top>
+<top>
+<num>35</num>
+<title>Alternatives to Postscript</title>
+<desc></desc>
+</top>
+<top>
+<num>36</num>
+<title>How do rewritable optical discs</title>
+<desc></desc>
+</top>
+<top>
+<num>37</num>
+<title>Identify components SAA</title>
+<desc></desc>
+</top>
+<top>
+<num>38</num>
+<title>Impact of the &quot;Religious Right&quot; in U.S. law</title>
+<desc></desc>
+</top>
+<top>
+<num>39</num>
+<title>Plans and expectations client-server</title>
+<desc></desc>
+</top>
+<top>
+<num>40</num>
+<title>Failure analysis of savings and loans</title>
+<desc></desc>
+</top>
+<top>
+<num>41</num>
+<title>Update computers or communication systems</title>
+<desc></desc>
+</top>
+<top>
+<num>42</num>
+<title>What and End-User Computing and who is doing it</title>
+<desc></desc>
+</top>
+<top>
+<num>43</num>
+<title>Politics technologically U.S.</title>
+<desc></desc>
+</top>
+<top>
+<num>44</num>
+<title>Staff reductions in companies informatics and Communications</title>
+<desc></desc>
+</top>
+<top>
+<num>45</num>
+<title>What makes a CASE succeed or fail</title>
+<desc></desc>
+</top>
+<top>
+<num>46</num>
+<title>Monitoring of outbreaks of computer viruses</title>
+<desc></desc>
+</top>
+<top>
+<num>47</num>
+<title>Contracts for computer systems that exceed $ 1 million</title>
+<desc></desc>
+</top>
+<top>
+<num>48</num>
+<title>Buyers of modern communication equipment</title>
+<desc></desc>
+</top>
+<top>
+<num>49</num>
+<title>Who is working with supercomputers</title>
+<desc></desc>
+</top>
+<top>
+<num>50</num>
+<title>Potential military interest in applications of virtual reality</title>
+<desc></desc>
+</top>
+</BEGIN>

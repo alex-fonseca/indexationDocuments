@@ -1,0 +1,103 @@
+<BEGIN>
+
+<top><num>1</num><title> Coroner antitrust loans</title> <desc></desc></top>
+
+<top><num>2</num><title> buyout</title> <desc></desc></top>
+
+<top><num>3</num><title> joint venture</title> <desc></desc></top>
+
+<top><num>4</num><title> rescheduling debt</title> <desc></desc></top>
+
+<top><num>5</num><title> on all counts dumping </title> <desc></desc></top>
+
+<top><num>6</num><title> pardon debt third world </title> <desc></desc></top>
+
+<top><num>7</num><title> Deficit budgetary USA </title> <desc></desc></top>
+
+<top><num>8</num><title> projection business fluctuations</title> <desc></desc></top>
+
+<top><num>9</num><title> place members of the bar Congress USA sobre a initiative defense strategic - SDI </title> <desc></desc></top>
+
+<top><num>10</num><title> deal against AIDS </title> <desc></desc></top>
+
+<top><num>11</num><title> program spatial</title> <desc></desc></top>
+
+<top><num>12</num><title> pollution water, waters</title> <desc></desc></top>
+
+<top><num>13</num><title> Mitsubishi hustle hard drugs Ltd</title> <desc></desc></top>
+
+<top><num>14</num><title> approval, agreement tidings druggie</title> <desc></desc></top>
+
+<top><num>15</num><title> meeting liberation commerce international</title> <desc></desc></top>
+
+<top><num>16</num><title> commercialization pesticides</title> <desc></desc></top>
+
+<top><num>17</num><title> measuring cup control pesticides</title> <desc></desc></top>
+
+<top><num>18</num><title> inclined to believe market share, stock Japanese</title> <desc></desc></top>
+
+<top><num>19</num><title> measuring cup protectionist USA </title> <desc></desc></top>
+
+<top><num>20</num><title> process violation patent, privilege, frank, clear</title> <desc></desc></top>
+
+<top><num>21</num><title> superconducting</title> <desc></desc></top>
+
+<top><num>22</num><title> Antidrug</title> <desc></desc></top>
+
+<top><num>23</num><title> have repercussions legal use pesticides </title> <desc></desc></top>
+
+<top><num>24</num><title> news, novelty technology healthcare</title> <desc></desc></top>
+
+<top><num>25</num><title> catch up with Chernobyl </title> <desc></desc></top>
+
+<top><num>26</num><title> hurricane tracking actor, performer influencer, big shot; influential multimedia</title> <desc></desc></top>
+
+<top><num>27</num><title> system crack team net, network neural affair manufacturer</title> <desc></desc></top>
+
+<top><num>28</num><title> crank up doctor ATeT </title> <desc></desc></top>
+
+<top><num>29</num><title> installation lingo pharmaceuticals communication sector ATeT </title> <desc></desc></top>
+
+<top><num>30</num><title> troubleshooter OS/2 </title> <desc></desc></top>
+
+<top><num>31</num><title> features and benefits OS/2 </title> <desc></desc></top>
+
+<top><num>32</num><title> outsource work informatics</title> <desc></desc></top>
+
+<top><num>33</num><title> churning able, capable, competent produce system management exhibit</title> <desc></desc></top>
+
+<top><num>34</num><title> entity involved construction, building application ISDN business or political strategies development explorer ISDN </title> <desc></desc></top>
+
+<top><num>35</num><title> alternative sources of energy  Postscript </title> <desc></desc></top>
+
+<top><num>36</num><title> work, operate disc optical rewritable</title> <desc></desc></top>
+
+<top><num>37</num><title> identify component SAA  </title> <desc></desc></top>
+
+<top><num>38</num><title> impact right feast day lawful USA </title> <desc></desc></top>
+
+<top><num>39</num><title> plan come up to Client-Server </title> <desc></desc></top>
+
+<top><num>40</num><title> analysis fail-safe, failsafe savings loans outstanding</title> <desc></desc></top>
+
+<top><num>41</num><title> update, upgrading computer programmer system communication</title> <desc></desc></top>
+
+<top><num>42</num><title> computation usufructuary; user final doing</title> <desc></desc></top>
+
+<top><num>43</num><title> policy, politics associate degree USA </title> <desc></desc></top>
+
+<top><num>44</num><title> rollback personnel churning informatics communication</title> <desc></desc></top>
+
+<top><num>45</num><title> does, makes CASE have success shatter, break, fail</title> <desc></desc></top>
+
+<top><num>46</num><title> monitoring outbreak, boom, impulse, dash virus computer </title> <desc></desc></top>
+
+<top><num>47</num><title> contract system computer exceed, excel, transcend US$ 1 million</title> <desc></desc></top>
+
+<top><num>48</num><title> purchaser equipment communication modern</title> <desc></desc></top>
+
+<top><num>49</num><title> work, strive, perform, struggle supercomputer</title> <desc></desc></top>
+
+<top><num>50</num><title> potential interest soldier application reality, actuality, fact virtual </title> <desc></desc></top>
+
+</BEGIN>

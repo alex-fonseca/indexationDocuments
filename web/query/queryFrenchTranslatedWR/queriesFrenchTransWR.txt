@@ -1,0 +1,180 @@
+<BEGIN>
+
+
+<top>
+<num>1</num>
+<title>event authority Antitrust </title> 
+<desc></desc>
+</top>
+
+<top>
+<num>2</num>
+<title> anti-monopoly</title> 
+<desc></desc>
+</top>
+
+<top>
+<num>3</num>
+<title> joint ventures </title> 
+<desc></desc>
+</top>
+
+<top>
+<num>4</num>
+<title> rescheduling debt</title> 
+<desc></desc></top>
+
+<top>
+<num>5</num>
+<title> cool, chilly tip, rubbish tip</title> 
+<desc></desc></top>
+
+<top>
+<num>6</num>
+<title> reduction debt third-world </title> 
+<desc></desc></top>
+
+<top>
+<num>7</num>
+<title> deficit budgetary United States America </title> 
+<desc></desc></top>
+
+<top>
+<num>8</num>
+<title> projection economic</title> 
+<desc></desc></top>
+
+<top>
+<num>9</num>
+<title> position congress American IDS </title> 
+<desc></desc></top>
+
+<top>
+<num>10</num>
+<title> traitement AIDS</title> 
+<desc></desc></top>
+
+<top>
+<num>11</num><title> programme spatial</title> <desc></desc></top>
+
+<top>
+<num>12</num><title> pollution water</title> <desc></desc></top>
+
+<top>
+<num>13</num><title> industry door Mitsubishi Ltd. </title> <desc></desc></top>
+
+<top>
+<num>14</num><title> approval medicine </title> <desc></desc></top>
+
+<top>
+<num>15</num><title> liberalization talks business international </title> <desc></desc></top>
+
+<top>
+<num>16</num><title> commercialization produce agrochemicals </title> <desc></desc></top>
+
+<top>
+<num>17</num><title> measures control produce agrochemicals </title> <desc></desc></top>
+
+<top>
+<num>18</num><title> tendency purse Japanese </title> <desc></desc></top>
+
+<top>
+<num>19</num><title> measures protectionist United States America
+ </title> <desc></desc></top>
+
+<top>
+<num>20</num><title> trial, process, lawsuit counterfeit patent office </title> <desc></desc></top>
+
+<top>
+<num>21</num><title> superconductors </title> <desc></desc></top>
+
+<top>
+<num>22</num><title> struggle against astounding</title> <desc></desc></top>
+
+<top>
+<num>23</num><title> resonance legal use produce agrochemicals </title> <desc></desc></top>
+
+<top>
+<num>24</num><title> (breaking) news technology medicale </title> <desc></desc></top>
+
+<top>
+<num>25</num><title> music Tchernobyl </title> <desc></desc></top>
+
+<top>
+<num>26</num><title> monitoring actor influential multimedia</title> <desc></desc></top>
+
+<top>
+<num>27</num><title> system expert, specialist, master networks neural business industry</title> <desc></desc></top>
+
+<top>
+<num>28</num><title> stresses communication engineering ATeT </title> <desc></desc></top>
+
+<top>
+<num>29</num><title> installation closed to, impervious to produce communication ATeT </title> <desc></desc></top>
+
+<top>
+<num>30</num><title> bugs SE/2 </title> <desc></desc></top>
+
+<top>
+<num>31</num><title> perks SE/2 </title> <desc></desc></top>
+
+<top>
+<num>32</num><title> subcontracted work computer science</title> <desc></desc></top>
+
+<top>
+<num>33</num><title> begin doing sth capable produce system management documentation </title> <desc></desc></top>
+
+<top>
+<num>34</num><title> entity involve, entail building applications ISNR development strategy farmer ISNR </title> <desc></desc></top>
+
+<top>
+<num>35</num><title> alternating (current) Postscript </title> <desc></desc></top>
+
+<top>
+<num>36</num><title> multiple-disk optic chiasm REWRITABLE function</title> <desc></desc></top>
+
+<top>
+<num>37</num><title> identify components ASA </title> <desc></desc></top>
+
+<top>
+<num>38</num><title> Impact straight religious law American </title> <desc></desc></top>
+
+<top>
+<num>39</num><title> Plans expectations Client-Server </title> <desc></desc></top>
+
+<top>
+<num>40</num><title> Analysis savings chess close to</title> <desc></desc></top>
+
+<top>
+<num>41</num><title> putting, placing, setting level computer systems communication
+ </title> <desc></desc></top>
+
+<top>
+<num>42</num><title> user final computer science done</title> <desc></desc></top>
+
+<top>
+<num>43</num><title> politics technology American</title> <desc></desc></top>
+
+<top>
+<num>44</num><title> reduction, decrease personal company computer science communication
+ </title> <desc></desc></top>
+
+<top>
+<num>45</num><title> succeed in, succeed at, successfully perform end up ILAO </title> <desc></desc></top>
+
+<top>
+<num>46</num><title> monitoring eruption virus computer science </title> <desc></desc></top>
+
+<top>
+<num>47</num><title> agreement systems computer science exceed million dollar </title> <desc></desc></top>
+
+<top>
+<num>48</num><title> buyer equipment communication modern </title> <desc></desc></top>
+
+<top>
+<num>49</num><title> elaborate, polished super electronic computers</title> <desc></desc></top>
+
+<top>
+<num>50</num><title> potential interest soldier application reality virtual, potential </title> <desc></desc></top>
+
+</BEGIN>

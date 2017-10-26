@@ -1,0 +1,356 @@
+<BEGIN>
+
+<top>
+<num>1</num>
+<title>Antitrust Cases Pending</title>
+<desc>pending antitrust case</desc>
+</top>
+
+<top>
+<num>2</num>
+<title>Acquisitions</title>
+<desc>currently proposed acquisition involving a U.S.
+company and a foreign company</desc>
+</top>
+
+<top>
+<num>3</num>
+<title>Joint Ventures</title>
+<desc>a new joint venture involving a Japanese
+company</desc>
+</top>
+
+<top>
+<num>4</num>
+<title>Debt Rescheduling</title>
+<desc>a current debt rescheduling
+agreement between a developing country and one or more of its
+creditor(s)</desc>
+</top>
+
+<top>
+<num>5</num>
+<title>Dumping Charges</title>
+<desc>The U.S. or the EC charges Japan with dumping a product on any market
+and/or takes action against Japan for proven or suspected dumping</desc>
+</top>
+
+<top>
+<num>6</num>
+<title>Third World Debt Relief</title>
+<desc>debt relief for a developing country</desc>
+</top>
+
+<top>
+<num>7</num>
+<title>U.S. Budget Deficit</title>
+<desc>a proposal to decrease the U.S. budget deficit</desc>
+</top>
+
+<top>
+<num>8</num>
+<title>Economic Projections</title>
+<desc>quantitative projections of the future value of
+some economic indicator for countries other than the U.S</desc>
+</top>
+
+<top>
+<num>9</num>
+<title>U.S. Congressional Positions on the SDI</title>
+<desc>position(s) held by members of the U.S. Congress on 
+paying for the Strategic Defense Initiative SDI also known as star wars</desc>
+</top>
+
+<top>
+<num>10</num>
+<title>AIDS treatments</title>
+<desc>a specific AIDS or ARC treatment</desc>
+</top>
+
+<top>
+<num>11</num>
+<title>Space Program</title>
+<desc>the goals or plans of the space program or a space
+project of any country or organization</desc>
+</top>
+
+<top>
+<num>12</num>
+<title>Water Pollution</title>
+<desc>the pollution of a body of water</desc>
+</top>
+
+<top>
+<num>13</num>
+<title>Mitsubishi Heavy Industries Ltd</title>
+<desc>Mitusbishi Heavy Industries Ltd</desc>
+</top>
+
+<top>
+<num>14</num>
+<title>Drug Approval</title>
+<desc>current final national approval granted to a company to
+market a drug for the treatment of a specific ailment</desc>
+</top>
+
+<top>
+<num>15</num>
+<title>International Trade Liberalization Talks</title>
+<desc>developments in international trade negotiations 
+aimed at bolstering international commerce through reducing barriers to 
+trade, or preventing the creation of such barriers</desc>
+</top>
+
+<top>
+<num>16</num>
+<title>Marketing of Agrochemicals</title>
+<desc>marketing strategies carried out by U.S.
+companies for their agricultural chemicals, report predictions for
+market share of such chemicals, or report market statistics for the
+chemicals</desc>
+</top>
+
+<top>
+<num>17</num>
+<title>Measures to Control Agrochemicals</title>
+<desc>measures to ban, regulate, or curb use of
+agricultural chemicals in the U.S. or use of chemicals abroad on
+produce for the U.S. market</desc>
+</top>
+
+<top>
+<num>18</num>
+<title>Japanese Stock Market Trends</title>
+<desc>trends in the Japanese stock market</desc>
+</top>
+
+<top>
+<num>19</num>
+<title>U.S. Protectionist Measures</title>
+<desc>a trade protection measure designed to benefit an
+identified U.S. corporation or industry</desc>
+</top>
+
+<top>
+<num>20</num>
+<title>Patent Infringement Lawsuits</title>
+<desc>a current patent infringement lawsuit</desc>
+</top>
+
+<top>
+<num>21</num>
+<title>Superconductors</title>
+<desc>breakthrough in superconductivity research and
+identifies at least one commercial application</desc>
+</top>
+
+<top>
+<num>22</num>
+<title>Counternarcotics</title>
+<desc>countermeasures to curb the production of
+illegal drugs abroad or to curb the entry of illegal drugs into the
+U.S</desc>
+</top>
+
+<top>
+<num>23</num>
+<title>Legal Repercussions of Agrochemical Use</title>
+<desc>legal remedies for misuse, accidental or
+intentional, of agrochemicals worldwide</desc>
+</top>
+
+<top>
+<num>24</num>
+<title>New Medical Technology</title>
+<desc>new medical breakthroughs, in treatments, drugs,
+equipment</desc>
+</top>
+
+<top>
+<num>25</num>
+<title>Aftermath of Chernobyl</title>
+<desc>measures taken by European countries to record or
+contain the results of the Chernobyl accident</desc>
+</top>
+
+<top>
+<num>26</num>
+<title>Tracking Influential Players in Multimedia</title>
+<desc>companies that develop multimedia applications, 
+standards or specifications</desc>
+</top>
+
+<top>
+<num>27</num>
+<title>Expert systems and neural networks in business or
+manufacturing</title>
+<desc>an expert system or neural network application for 
+business or manufacturing in layman's terms</desc>
+</top>
+
+<top>
+<num>28</num>
+<title>ATeT's Technical Efforts</title>
+<desc>ATeT's technical efforts in computers and 
+communications</desc>
+</top>
+
+<top>
+<num>29</num>
+<title>Foreign installation of ATeT communications products</title>
+<desc>efforts by a foreign entity to obtain communications 
+technology from ATeT</desc>
+</top>
+
+<top>
+<num>30</num>
+<title>OS/2 problems</title>
+<desc>problems associated with IBM's operating system product OS/2</desc>
+</top>
+
+<top>
+<num>31</num>
+<title>Advantages of OS/2</title>
+<desc>technical advantages of IBM's OS/2 product over competing 
+products</desc>
+</top>
+
+<top>
+<num>32</num>
+<title>Who outsources computer work to whom</title>
+<desc>company that outsources some of its computer work 
+to another company</desc>
+</top>
+
+<top>
+<num>33</num>
+<title>Companies Capable of Producing Document Management Systems</title>
+<desc>company who has the capability to produce a 
+document management system by obtaining a turnkey-system or by obtaining 
+and integrating the basic components</desc>
+</top>
+
+<top>
+<num>34</num>
+<title>Entities Involved In Building ISDN Applications and
+Developing Strategies to Exploit ISDN</title>
+<desc>applications companies plan to build are building, 
+have built for themselves or for others, which exploit ISDN's services 
+and capabilities or identify general strategies for using ISDN</desc>
+</top>
+
+<top>
+<num>35</num>
+<title>Alternatives to Postscript</title>
+<desc>need for, or the existence of, an alternative to 
+Postscript</desc>
+</top>
+
+<top>
+<num>36</num>
+<title>How Rewritable Optical Disks Work</title>
+<desc>principles and mechanisms behind rewritable optical 
+disk technology</desc>
+</top>
+
+<top>
+<num>37</num>
+<title>Identify SAA components</title>
+<desc>software products which adhere to IBM's SAA standards</desc>
+</top>
+
+<top>
+<num>38</num>
+<title>Impact of the Religious Right on U.S. Law</title>
+<desc>specific legal actions which reflect actions by, and 
+the agenda of, the religious right.</desc>
+</top>
+
+<top>
+<num>39</num>
+<title>Client-Server Plans and Expectations</title>
+<desc>how a client-server implementation will be carried out 
+and why it will help them</desc>
+</top>
+
+<top>
+<num>40</num>
+<title>Analyses of Savings and Loan Failures</title>
+<desc>at least one reason why a U.S. Savings and Loan has 
+failed, or why the industry generally is under stress</desc>
+</top>
+
+<top>
+<num>41</num>
+<title>Computer or Communications Systems Upgrade</title>
+<desc>organization beginning, in the midst, or recently 
+completing a computer or communications system upgrade</desc>
+</top>
+
+<top>
+<num>42</num>
+<title>What is End User Computing and Who's Doing It</title>
+<desc>end-user computing in general or identify 
+organizations performing end-user computing or showing a capacity for 
+performing end-user computing</desc>
+</top>
+
+<top>
+<num>43</num>
+<title>U.S. Technology Policy</title>
+<desc>federal actions to encourage, select, or protect
+technology because of its presumed centrality to the future defense posture 
+or economic competitiveness of the U.S.</desc>
+</top>
+
+<top>
+<num>44</num>
+<title>Staff Reductions at Computers and Communications
+Companies</title>
+<desc>cutbacks or projected cutbacks of more than 500 workers 
+for a computer or communications company</desc>
+</top>
+
+<top>
+<num>45</num>
+<title>What Makes CASE succeed or fail</title>
+<desc>the ingredients for making CASE work, and identify 
+companies with experience using CASE</desc>
+</top>
+
+<top>
+<num>46</num>
+<title>Tracking Computer Virus Outbreaks</title>
+<desc>computer virus attack and name the victimized 
+organization</desc>
+</top>
+
+<top>
+<num>47</num>
+<title>Contracts for Computer systems in excess of $1 Million</title>
+<desc>granting of a contract for computer or 
+communications equipment or services valued at more than $1 Million</desc>
+</top>
+
+<top>
+<num>48</num>
+<title>Purchasers of Modern Communications Equipment</title>
+<desc>organization purchasing a piece of communications 
+equipment or software, described in database</desc>
+</top>
+
+<top>
+<num>49</num>
+<title>Who's working with Supercomputers</title>
+<desc>organization involved in the operation, 
+programming or purchase of a supercomputer</desc>
+</top>
+
+<top>
+<num>50</num>
+<title>Potential Military Interest in Virtual Reality Applications</title>
+<desc>virtual reality investigations being conducted by 
+entities associated with the military industrial complex</desc>
+</top>
+
+</BEGIN>
