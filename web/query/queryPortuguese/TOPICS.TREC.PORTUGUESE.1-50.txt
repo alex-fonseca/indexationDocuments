@@ -1,103 +1,0 @@
-<BEGIN>
-
-<top><num>1</num><title>Casos antitruste pendentes</title><desc></desc></top>
-
-<top><num>2</num><title>Aquisicoes</title><desc></desc></top>
-
-<top><num>3</num><title>Joint Ventures</title><desc></desc></top>
-
-<top><num>4</num><title>Reescalonamento da divida</title><desc></desc></top>
-
-<top><num>5</num><title>Acusacoes de dumping</title><desc></desc></top>
-
-<top><num>6</num><title>Perdao da Divida do Terceiro Mundo</title><desc></desc></top>
-
-<top><num>7</num><title>Deficit orcamentario dos EUA</title><desc></desc></top>
-
-<top><num>8</num><title>Projecoes economicas</title><desc></desc></top>
-
-<top><num>9</num><title>Posicoes dos membros do Congresso dos EUA sobre a Iniciativa de Defesa Estrategica - SDI</title><desc></desc></top>
-
-<top><num>10</num><title>Tratamentos contra a AIDS</title><desc></desc></top>
-
-<top><num>11</num><title>Programa espacial</title><desc></desc></top>
-
-<top><num>12</num><title>Poluicao das aguas</title><desc></desc></top>
-
-<top><num>13</num><title>Mitsubishi Industrias Pesadas Ltda</title><desc></desc></top>
-
-<top><num>14</num><title>Aprovacao de novas drogas</title><desc></desc></top>
-
-<top><num>15</num><title>Reunioes sobre a liberacao do comercio internacional</title><desc></desc></top>
-
-<top><num>16</num><title>Comercializacao de agrotoxicos</title><desc></desc></top>
-
-<top><num>17</num><title>Medidas para o controle de agrotoxicos</title><desc></desc></top>
-
-<top><num>18</num><title>Tendencias do mercado de acoes japones</title><desc></desc></top>
-
-<top><num>19</num><title>Medidas protecionistas dos EUA</title><desc></desc></top>
-
-<top><num>20</num><title>Processos por Violacao de patentes</title><desc></desc></top>
-
-<top><num>21</num><title>Supercondutores</title><desc></desc></top>
-
-<top><num>22</num><title>Antidrogas</title><desc></desc></top>
-
-<top><num>23</num><title>Repercussoes legais do uso de agrotoxicos</title><desc></desc></top>
-
-<top><num>24</num><title>Nova tecnologia medica</title><desc></desc></top>
-
-<top><num>25</num><title>Consequencias de Chernobyl</title><desc></desc></top>
-
-<top><num>26</num><title>Rastreamento de atores influentes em Multimidia</title><desc></desc></top>
-
-<top><num>27</num><title>Sistemas especialistas e redes neurais em negocios ou manufatura</title><desc></desc></top>
-
-<top><num>28</num><title>Esforcos tecnicos da ATeT</title><desc></desc></top>
-
-<top><num>29</num><title>Instalacao estrangeira de produtos de comunicacoes ATeT</title><desc></desc></top>
-
-<top><num>30</num><title>Problemas do OS/2</title><desc></desc></top>
-
-<top><num>31</num><title>Vantagens do OS/2</title><desc></desc></top>
-
-<top><num>32</num><title>Quem terceiriza o trabalho de informatica para quem</title><desc></desc></top>
-
-<top><num>33</num><title>Empresas capazes de produzir sistemas de Gestao de Documentos </title><desc></desc></top>
-
-<top><num>34</num><title>Entidades envolvidas na construcao de aplicacoes ISDN e Estrategias de desenvolvimento para explorar o ISDN</title><desc></desc></top>
-
-<top><num>35</num><title>Alternativas ao Postscript</title><desc></desc></top>
-
-<top><num>36</num><title>Como funcionam os discos opticos regravaveis</title><desc></desc></top>
-
-<top><num>37</num><title>Identificar os componentes SAA </title><desc></desc></top>
-
-<top><num>38</num><title>Impacto da "Direita Religiosa" nas leis dos EUA</title><desc></desc></top>
-
-<top><num>39</num><title>Planos e expectativas cliente-Servidor</title><desc></desc></top>
-
-<top><num>40</num><title>Analises de Falhas de Poupancas e Emprestimos</title><desc></desc></top>
-
-<top><num>41</num><title>Atualizacao Computadores ou Sistemas de Comunicacao</title><desc></desc></top>
-
-<top><num>42</num><title>O que e a computacao de usuario final e quem esta fazendo isso</title><desc></desc></top>
-
-<top><num>43</num><title>Politica tecnologica dos EUA</title><desc></desc></top>
-
-<top><num>44</num><title>Reducoes de pessoal em empresas de informatica e de Comunicacoes</title><desc></desc></top>
-
-<top><num>45</num><title>O que faz um CASE ter sucesso ou fracassar</title><desc></desc></top>
-
-<top><num>46</num><title>Monitoramento de surtos de virus de computador</title><desc></desc></top>
-
-<top><num>47</num><title>Contratos para sistemas de computador que excedem US$ 1 milhao</title><desc></desc></top>
-
-<top><num>48</num><title>Compradores de equipamentos de comunicacao modernos</title><desc></desc></top>
-
-<top><num>49</num><title>Quem esta trabalhando com supercomputadores</title><desc></desc></top>
-
-<top><num>50</num><title>Potencial interesse militar em aplicacoes de realidade virtual</title><desc></desc></top>
-
-</BEGIN>

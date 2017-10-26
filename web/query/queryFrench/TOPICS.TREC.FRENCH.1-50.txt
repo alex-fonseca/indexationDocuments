@@ -1,181 +1,0 @@
-<BEGIN>
-
-
-<top>
-<num>1</num>
-<title>Les cas en instance d'Antitrust</title>
-<desc></desc>
-</top>
-
-<top>
-<num>2</num>
-<title>Acquisitions</title>
-<desc></desc>
-</top>
-
-<top>
-<num>3</num>
-<title>Les co-entreprises</title>
-<desc></desc>
-</top>
-
-<top>
-<num>4</num>
-<title>Reechelonnement de la dette</title>
-<desc></desc></top>
-
-<top>
-<num>5</num>
-<title>Frais de decharge</title>
-<desc></desc></top>
-
-<top>
-<num>6</num>
-<title>Allegement de la dette du tiers-monde</title>
-<desc></desc></top>
-
-<top>
-<num>7</num>
-<title>Deficit budgetaire des Etats-Unis d'Ameriques</title>
-<desc></desc></top>
-
-<top>
-<num>8</num>
-<title>Projections economiques</title>
-<desc></desc></top>
-
-<top>
-<num>9</num>
-<title>Positions du congres americain sur l'IDS</title>
-<desc></desc></top>
-
-<top>
-<num>10</num>
-<title>Traitements du sida</title>
-<desc></desc></top>
-
-<top>
-<num>11</num><title>Programme spatial</title><desc></desc></top>
-
-<top>
-<num>12</num><title>Pollution de l'eau</title><desc></desc></top>
-
-<top>
-<num>13</num><title>Les industries lourdes Mitsubishi Ltd.</title><desc></desc></top>
-
-<top>
-<num>14</num><title>Approbation des medicaments</title><desc></desc></top>
-
-<top>
-<num>15</num><title>Liberalisation des pourparlers sur le commerce international </title><desc></desc></top>
-
-<top>
-<num>16</num><title>Commercialisation des produits agrochimiques</title><desc></desc></top>
-
-<top>
-<num>17</num><title>Mesures pour controler les produits agrochimiques</title><desc></desc></top>
-
-<top>
-<num>18</num><title>Tendances de la bourse japonaise</title><desc></desc></top>
-
-<top>
-<num>19</num><title>Mesures protectionnistes des Etats-Unis d'Amerique
-</title><desc></desc></top>
-
-<top>
-<num>20</num><title>Proces sur la contrefacon de brevets</title><desc></desc></top>
-
-<top>
-<num>21</num><title>Superconducteurs</title><desc></desc></top>
-
-<top>
-<num>22</num><title>Lutte contre les stupefiants
-</title><desc></desc></top>
-
-<top>
-<num>23</num><title>Repercussions legales d'utilisation de produits agrochimiques</title><desc></desc></top>
-
-<top>
-<num>24</num><title>Nouvelle technologie medicale</title><desc></desc></top>
-
-<top>
-<num>25</num><title>Consequences de Tchernobyl</title><desc></desc></top>
-
-<top>
-<num>26</num><title>Suivi des acteurs influents dans les Multimedias</title><desc></desc></top>
-
-<top>
-<num>27</num><title>Systemes experts et reseaux neuronaux dans les affaires ou dans l'industrie</title><desc></desc></top>
-
-<top>
-<num>28</num><title>Efforts techniques de ATeT</title><desc></desc></top>
-
-<top>
-<num>29</num><title>Installation etrangere des produits de communication ATeT</title><desc></desc></top>
-
-<top>
-<num>30</num><title>Problemes de SE/2</title><desc></desc></top>
-
-<top>
-<num>31</num><title>Avantages de SE/2</title><desc></desc></top>
-
-<top>
-<num>32</num><title>Qui sous-traite le travail informatique a qui?</title><desc></desc></top>
-
-<top>
-<num>33</num><title>Entreprises capables de produire des systemes de gestion de documents</title><desc></desc></top>
-
-<top>
-<num>34</num><title>Entites impliquees dans la construction des applications SIRN et le developpement des strategies exploitant les SIRN</title><desc></desc></top>
-
-<top>
-<num>35</num><title>Alternatives au Postscript</title><desc></desc></top>
-
-<top>
-<num>36</num><title>Comment les disques optiques reinscriptibles fonctionnent</title><desc></desc></top>
-
-<top>
-<num>37</num><title>Identifier les composants ASA</title><desc></desc></top>
-
-<top>
-<num>38</num><title>Impact du "droit religieux" sur la loi americaine</title><desc></desc></top>
-
-<top>
-<num>39</num><title>Plans est expectations du Client-Serveur</title><desc></desc></top>
-
-<top>
-<num>40</num><title>Analyses des epargne et echecs des prets</title><desc></desc></top>
-
-<top>
-<num>41</num><title>Mise a niveau des ordinateur ou des systemes de communication
-</title><desc></desc></top>
-
-<top>
-<num>42</num><title>Qu'est-ce qu'est l'utilisateur final en informatique et qui le fait</title><desc></desc></top>
-
-<top>
-<num>43</num><title>Politique de la technologie americaine</title><desc></desc></top>
-
-<top>
-<num>44</num><title>Reductions du personnel dans les compagnies informatiques de communicationS
-</title><desc></desc></top>
-
-<top>
-<num>45</num><title>Ce qui fait reussir ou echouer ILAO</title><desc></desc></top>
-
-<top>
-<num>46</num><title>Suivi de l'eruption des virus informatiques</title><desc></desc></top>
-
-<top>
-<num>47</num><title>Contrats des systemes informatiques qui depassent 1 million de dollars</title><desc></desc></top>
-
-<top>
-<num>48</num><title>Acquereurs de materiels de communication modernes</title><desc></desc></top>
-
-<top>
-<num>49</num><title>Qui travaille avec les super ordinateurs</title><desc></desc></top>
-
-<top>
-<num>50</num><title>Potentiel de l'interet militaire dans des applications de la realite virtuelle</title><desc></desc></top>
-
-</BEGIN>
